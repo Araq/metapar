@@ -316,7 +316,7 @@ Flow typing
 
   var x: ref int
   if x != nil:
-    p(x)
+    f(x)
 
 
 Effect system
